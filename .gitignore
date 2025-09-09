@@ -1,0 +1,41 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IIS Express
+/.vs/
+/iisexpress/
+
+# Publish output
+[Pp]ublish/
+[Pp]ublishedWebsites/
+AppPackages/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Web-specific
+[Bb]rowserLink/
+*.publishsettings
+wwwroot/lib/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# OS generated
+.DS_Store
+Thumbs.db

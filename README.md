@@ -1,6 +1,6 @@
 # 🖥️ Portfolio Website - ASP.NET
 
-**Personal portfolio website** built with **ASP.NET Web Application**, showcasing web development skills. Made with ❤️.
+**Personal portfolio website** built with **ASP.NET Web Application**, showcasing web development skills. Made with dedication
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)

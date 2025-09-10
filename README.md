@@ -25,45 +25,40 @@
 
 ## 📸 Project Screenshots
 
-### Description for p-1.jpg
+### About Me Page (Introduction)  
 ![p-1](./images/me1.jpg)
 
-### Description for p-2.jpg
+### Technical Skills Overview  
 ![p-2](./images/p2.jpg)
 
-
-
-### Description for p-5.jpg
+### Page Footer Section  
 ![p-5](./images/p-5.jpg)
 
-### Description for p-6.jpg
+### Featured Project (Currently Running)  
 ![p-6](./images/p-6.jpg)
 
-### Description for p-7.jpg
+### Project Management Dashboard  
 ![p-7](./images/p-7.jpg)
 
-### Description for p-8.jpg
-![p-8](./images/p-8.jpg)
-
-### Description for p-9.jpg
+### Add New Project Form  
 ![p-9](./images/p-9.jpg)
 
-### Description for p-10.jpg
+### Newly Added Project Display  
 ![p-10](./images/p-10.jpg)
 
-### Description for p-11.jpg
+### Database Confirmation – Project Added Successfully  
 ![p-11](./images/p-11.jpg)
 
-### Description for p-12.jpg
+### Edit Project Form  
 ![p-12](./images/p-12.jpg)
 
-### Description for p-13.jpg
+### Project Editing (Detailed View)  
 ![p-13](./images/p-13.jpg)
 
-### Description for p-14.jpg
+### Database Confirmation – Project Updated Successfully  
 ![p-14](./images/p-14.jpg)
 
-### Description for p-15.jpg
+### Code Structure Overview  
 ![p-15](./images/p-15.jpg)
 
 ## 🚀 Getting Started

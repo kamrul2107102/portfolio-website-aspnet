@@ -25,50 +25,46 @@
 ---
 
 ## 📸 Project Screenshots
-
-### About Me Page (Introduction)  
+### 🧑‍💻 About Me Page (Introduction)  
 ![p-1](./images/me1.jpg)
 
-### Technical Skills Overview  
+### 🛠️ Technical Skills Overview  
 ![p-2](./images/p2.jpg)
 
-### Page Footer Section  
+### 📜 Page Footer Section  
 ![p-5](./images/p-5.jpg)
 
-### Featured Project (Currently Running)  
+### 🚀 Featured Project (Currently Running)  
 ![p-6](./images/p-6.jpg)
 
-### Project Management Dashboard  
+### 📊 Project Management Dashboard  
 ![p-7](./images/p-7.jpg)
 
-### Add New Project Form  
+### ➕ Add New Project Form  
 ![p-9](./images/p-9.jpg)
 
-### Newly Added Project Display  
+### 🆕 Newly Added Project Display  
 ![p-10](./images/p-10.jpg)
 
-### Database Confirmation – Project Added Successfully  
+### ✅ Database Confirmation – Project Added Successfully  
 ![p-11](./images/p-11.jpg)
 
-### Edit Project Form  
+### ✏️ Edit Project Form  
 ![p-12](./images/p-12.jpg)
 
-### Project Editing (Detailed View)  
+### 🔍 Project Editing (Detailed View)  
 ![p-13](./images/p-13.jpg)
 
-### Database Confirmation – Project Updated Successfully  
+### 📌 Database Confirmation – Project Updated Successfully  
 ![p-14](./images/p-14.jpg)
-### Delete Project Form  
+
+### 🗑️ Delete Project Form  
 ![deleteOperation](./images/deleteOperation.png)
 
-### Deleted Project from UI  and Database  
+### ❌ Deleted Project from UI and Database  
 ![dfui](./images/dfui.png)
 
-
-
-
-
-### Code Structure Overview  
+### 📂 Code Structure Overview  
 ![p-15](./images/p-15.jpg)
 
 ## 🚀 Getting Started

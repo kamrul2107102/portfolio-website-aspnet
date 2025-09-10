@@ -26,10 +26,10 @@
 ## 📸 Project Screenshots
 
 ### Description for p-1.jpg
-![p-1](./images/p-1.jpg)
+![p-1](./images/me1.jpg)
 
 ### Description for p-2.jpg
-![p-2](./images/p-2.jpg)
+![p-2](./images/p2.jpg)
 
 
 

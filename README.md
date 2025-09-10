@@ -58,11 +58,11 @@
 ### Database Confirmation – Project Updated Successfully  
 ![p-14](./images/p-14.jpg)
 ### Delete Project Form  
-![p-12](./images/deleteOperation.jpg)
+![deleteOperation](./images/deleteOperation.jpg)
 ### deleted Project from ui  
-![p-12](./images/dfui.jpg)
+![dfui](./images/dfui.jpg)
 ###  deleted Project from database
-![p-12](./images/dfdb.jpg)
+![dfdb](./images/dfdb.jpg)
 
 
 

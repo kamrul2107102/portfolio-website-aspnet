@@ -60,11 +60,10 @@
 ### Delete Project Form  
 ![deleteOperation](./images/deleteOperation.png)
 
-### Deleted Project from UI  
+### Deleted Project from UI  and Database  
 ![dfui](./images/dfui.png)
 
-### Deleted Project from Database  
-![dfdb](./images/dfdb.png)
+
 
 
 

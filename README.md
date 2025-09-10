@@ -19,6 +19,7 @@
 - **CRUD operations**: Create, Read, Update, Delete content easily.  
 - **Session & cookies management**: Securely manages user sessions.  
 - **Technologies used**: C#, ASP.NET, HTML, CSS, JavaScript.
+- **Fully Responsive**
 
 ---
 ---
